@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satya-gopi
-- 👀 I’m interested in building something which many people will use and love.
-- 🌱 I’m currently learning flutter and selenium.
+- 👀 I’m interested in building something which many people will use and love
+- 🌱 I’m currently learning flutter and selenium
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me? Just search for me or DM me on Twitter @since9teen94
 
